@@ -1,4 +1,6 @@
 ## Assistance by Detrich and Lori Henderson 
+## Front End Repo Link: https://github.com/mavwatts/ghostpost_frontend
+## Back End Repo Link: https://github.com/mavwatts/ghostpost_backend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
